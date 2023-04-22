@@ -11,3 +11,6 @@ Wrapped up understanding backgrounds with learning the attachment propety so you
 
 ## Day 7 - Learning CSS III
 Finished up learning about the box model of margins and padding. Applying values to all sides, combining like values for top and bottom with left and right. Went over alignment in CSS. Learned the use of the container class with a max-width and auto margins are used to center your various boxes. Learned the tex align property to align my text in anyway that I need; mainly used center. Learned about the basic float, before learning about using CSS grid and flex box. When you float something, need to remember to set a width with percentage, and set the box sizing to border-box to prevent combining of values. And ended with, always remember to clear your floats to prevent the overlapping of elements. 
+
+## Day 8 - Learning CSS IV
+Learned about styling links and buttons and that there will be times to style links as buttons using btn as the class name. Went over styling and setting up navigation menus. When doing an overall nav menu with floats, rememebr to use the overflow propety so the floats do not collapse the background. 
