@@ -14,3 +14,6 @@ Finished up learning about the box model of margins and padding. Applying values
 
 ## Day 8 - Learning CSS IV
 Learned about styling links and buttons and that there will be times to style links as buttons using btn as the class name. Went over styling and setting up navigation menus. When doing an overall nav menu with floats, rememebr to use the overflow propety so the floats do not collapse the background. 
+
+## Day 9 - Hotel BT
+Started on the first HTML and CSS project called Hotel BT. This project using basic HTML and CSS nothing special. Added the project images to the project folder. Created the 3 HTML pages used for the project - index, about and contact. Added the main CSS style sheet called main that will hold all the main styling for the project. Created the HTML and the CSS for the logo that will link to the homepage andthe navigation menu to the 3 different pages of the website.
