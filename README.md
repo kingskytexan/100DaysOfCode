@@ -17,3 +17,6 @@ Learned about styling links and buttons and that there will be times to style li
 
 ## Day 9 - Hotel BT
 Started on the first HTML and CSS project called Hotel BT. This project using basic HTML and CSS nothing special. Added the project images to the project folder. Created the 3 HTML pages used for the project - index, about and contact. Added the main CSS style sheet called main that will hold all the main styling for the project. Created the HTML and the CSS for the logo that will link to the homepage andthe navigation menu to the 3 different pages of the website.
+
+## Day 10 - Hotel BT II
+Worked on the Showcase, Home info and Features sections for the website. Created the HMTL for these sections along with JS script to Font Awesome to use their icons. Created thier CSS rules for these sections minus Features. Having these sections, will have their own styling rules while also having utility classes that I will use throughout the project. Doing project like this shows me a better understanding of HTML and vanilla CSS and how to use them. With more projects, will provide a better understanding of web development.
