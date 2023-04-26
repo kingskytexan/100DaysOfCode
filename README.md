@@ -20,3 +20,6 @@ Started on the first HTML and CSS project called Hotel BT. This project using ba
 
 ## Day 10 - Hotel BT II
 Worked on the Showcase, Home info and Features sections for the website. Created the HMTL for these sections along with JS script to Font Awesome to use their icons. Created thier CSS rules for these sections minus Features. Having these sections, will have their own styling rules while also having utility classes that I will use throughout the project. Doing project like this shows me a better understanding of HTML and vanilla CSS and how to use them. With more projects, will provide a better understanding of web development.
+
+## Day 11 - Hotel BT III
+Styled the features section of the homepage. Used floats on the box div's while providing padding and background colors to the boxes. Created the HTML for the footer section and added the CSS for the footer section. Centered the text in the footer while also adding text color and background color. Added the clr class to clear the floats from the boxes so that the spacing for the background in the footer gets its given size. Gotta love the the use of floats and the clearing of the floats.
