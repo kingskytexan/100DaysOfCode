@@ -23,3 +23,6 @@ Worked on the Showcase, Home info and Features sections for the website. Created
 
 ## Day 11 - Hotel BT III
 Styled the features section of the homepage. Used floats on the box div's while providing padding and background colors to the boxes. Created the HTML for the footer section and added the CSS for the footer section. Centered the text in the footer while also adding text color and background color. Added the clr class to clear the floats from the boxes so that the spacing for the background in the footer gets its given size. Gotta love the the use of floats and the clearing of the floats.
+
+## Day 12 - Hotel BT - Final
+Finally wrapped up the Hotel Bt website. I completed the HTML and CSS for the about and contact page. Doing this project has shown how to create a simple website. Shows the general way of doing websote developement. Even though, the CSS was simple CSS with floats which make its interesting. The pages use alot of the same parts and classes, which makes it easier for devleoping the site. The more practice I get form these projects, will help to understand web development and with the devleopment itself.
