@@ -26,3 +26,6 @@ Styled the features section of the homepage. Used floats on the box div's while 
 
 ## Day 12 - Hotel BT - Final
 Finally wrapped up the Hotel Bt website. I completed the HTML and CSS for the about and contact page. Doing this project has shown how to create a simple website. Shows the general way of doing websote developement. Even though, the CSS was simple CSS with floats which make its interesting. The pages use alot of the same parts and classes, which makes it easier for devleoping the site. The more practice I get form these projects, will help to understand web development and with the devleopment itself.
+
+## Day 13 - Responsive Design
+Started on the section for Responsive Design. Anytime you build a website add or app, you need to think of the different screen sizes that will run saide site and app. Learned the Mobile First method to learning repsonsive redesgin. Learned what nedia queries and how to use them. Besides setting a max-width, you can also set min-width, min-height, and max-height. You can also set a media to be a screen size between a max-width and min-width. On a seprate ote, got a newer iPAd at work since we are doing away with Apple products. 
