@@ -29,3 +29,9 @@ Finally wrapped up the Hotel Bt website. I completed the HTML and CSS for the ab
 
 ## Day 13 - Responsive Design
 Started on the section for Responsive Design. Anytime you build a website add or app, you need to think of the different screen sizes that will run saide site and app. Learned the Mobile First method to learning repsonsive redesgin. Learned what nedia queries and how to use them. Besides setting a max-width, you can also set min-width, min-height, and max-height. You can also set a media to be a screen size between a max-width and min-width. On a seprate ote, got a newer iPAd at work since we are doing away with Apple products. 
+
+## Day 14 - Bowling
+Nothing wrong with hanging out with friends who are family. It's needed.
+
+## Day 15 - Responsive Design II
+Went over the different units used in reponsive design - em, rem, viewport height/vh and viewport width/vw. Rem are relative units based on the root element. The root element that is used is the HTML element. The given pixels the root element uses is 16 pixels. Rem is ahwole lot esier to use and understand then using em units. Em units is based on the sizing of the parent element/container. Using em units can cause issues with spacing and sizing for nested elements. Vh units and Vw units both have 100 per browser. VH is the most common of the 2 since you will laways have websites going across the screen. Vh units are also great with the creation and styling of landing pages. Understanding these provide a better understanding with media queries to understand and use responsive design. 
