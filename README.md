@@ -44,3 +44,6 @@ Started the the next project called EdgeLEdger. The site is for a made up financ
 
 ## Day 18 - EdgeLedger II with Top Golf
 Today was like any other day: code code code. But seriously, before learning more about CSS cdoe I went to Top Golf. Hanging with fri-amly (friend family) can provide much laughter and release. Besides seeing more flexbox styling, I learned about overlays and the before pseudo-selector. Providing an overlay, is basically like tinting the background while using a z-index to bring the content forward in front of the tinited background. The more I see and use flexbox the better understanding I'm getting and why it's much easier then dealing with floats and trying to clear them. 
+
+## Day 19 - CSS Grid and Moving Forward
+Today I decide to stop theFlex project i was on and move on to the CSS Grid subsystem. The Grid sytem uses a 2D mapping system with columns and rows to determine layouts. CSS Grid is alot more powerful then flex, bur for me it seems alot more easier. As so far, it is. I moved onto Grid, because ater this Grif subsection I am moving straight onto JavaScript to get a hand on on that and more. 
