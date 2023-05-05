@@ -47,3 +47,6 @@ Today was like any other day: code code code. But seriously, before learning mor
 
 ## Day 19 - CSS Grid and Moving Forward
 Today I decide to stop theFlex project i was on and move on to the CSS Grid subsystem. The Grid sytem uses a 2D mapping system with columns and rows to determine layouts. CSS Grid is alot more powerful then flex, bur for me it seems alot more easier. As so far, it is. I moved onto Grid, because ater this Grif subsection I am moving straight onto JavaScript to get a hand on on that and more. 
+
+## Day 20 CSS Grid II aka Final Style
+Today wraps up the basics of CSS and HTML. I wrapped up learning CSS grid and how it and Flexbox both can provide great ways to display your webpage's content to the user. Css Grid provides a great way to display your content using template areas since it visually sets up how you want the layout to look, while using media queries sets the beheavre for different screen sizes. Over all both Grid and Flexbox will be great for laying out content. Reason why I call this the Final Style is because I'm ready to head over to JavaScript and start learning about proper interactivity of websites. And because I have spent too much time going back and forth and what programming area to do. I thought about starting JS today but decided to hold off and start tomorrow with leanring and using JS for web development. 
